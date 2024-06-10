@@ -1,0 +1,55 @@
+.job-profile-container {
+  background-color: #000000;
+  display: flex;
+  justify-content: space-around;
+  padding: 25px;
+}
+
+.jobs-container {
+  padding: 20px;
+}
+
+.search-section {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  padding: 8px;
+  margin-right: 10px;
+  flex-grow: 1;
+}
+
+.search-button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #0056b3;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+.radio-button {
+  margin-bottom: 10px;
+}
+
+.profile-section {
+  margin-bottom: 20px;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.job-profile-container {
+  /* Existing styles */
+}
